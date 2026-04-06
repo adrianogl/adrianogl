@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="380px" align="right" style="margin-top: 60px">
-
 ## Olá, sou Adriano Gonçalves 👋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="380px" align="right">
 
 Desenvolvedor web com mais de 12 anos de experiência, tendo passado por agências digitais, startups e empresas de grande escala. Tenho perfil full stack com foco em frontend, trabalhando em produtos de alto volume de acessos simultâneos e times de engenharia estruturados.
 

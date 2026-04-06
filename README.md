@@ -29,6 +29,6 @@ Desenvolvedor web com mais de 12 anos de experiência, tendo passado por agênci
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianogl&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogl&layout=compact&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=adrianogl&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogl&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=6" height="160" />
 </div>

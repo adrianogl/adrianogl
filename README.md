@@ -4,14 +4,23 @@ Desenvolvedor web com mais de 12 anos de experiência, tendo passado por agênci
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tecnologias
 
-| | |
-|---|---|
-| **🖥️ Frontend** | React · Next.js · TypeScript · JavaScript |
-| **⚙️ Backend** | PHP · Laravel |
-| **☁️ Infra** | AWS · Docker · MySQL · MariaDB · Redis |
-| **🔧 Workflow** | Git · Nx · Monorepos · CI/CD · Code Review |
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -23,12 +32,3 @@ Desenvolvedor web com mais de 12 anos de experiência, tendo passado por agênci
 | **Casa Mineira Imóveis** | Marco de transição para frontend. Atuei no portal de anúncios e sistema interno com grande volume de acessos simultâneos, conduzindo a migração de arquitetura monolítica para API Laravel + frontend Next.js desacoplado |
 | **Jestor** | Engenheiro sênior em produto SaaS com alta concorrência, dentro de um time com processos maduros de engenharia, code review rigoroso e deploys estruturados |
 | **Zero31 Comunicação** | Responsável por todo o ciclo de desenvolvimento web da agência em meio período, com atuação em infra, backend e frontend |
-
----
-
-### 📊 Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adrianogl&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogl&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=6" height="160" />
-</div>

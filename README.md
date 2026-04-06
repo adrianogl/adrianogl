@@ -32,9 +32,3 @@ Desenvolvedor web com mais de 12 anos de experiência, tendo passado por agênci
   <img src="https://github-readme-stats.vercel.app/api?username=adrianogl&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianogl&layout=compact&theme=dark&hide_border=true&count_private=true" height="165" />
 </div>
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adrianogl-blue?logo=linkedin)](https://linkedin.com/in/adrianogl)
